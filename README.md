@@ -8,7 +8,7 @@ Web-P2P-Signaling is a part implementation of aSTEAM Project (Next-Generation In
 * sudo apt install nodejs npm
 * npm install socket.io (>= 3.0.0)
 * npm install express (>= 4.17.1)
-* npm install https.
+* npm install https
 
 ## Instructions
 
